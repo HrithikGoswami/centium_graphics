@@ -1,3 +1,4 @@
+/* This program performs 2D transformation on an object */
 #include<stdio.h>
 #include<conio.h>
 #include<stdlib.h>
