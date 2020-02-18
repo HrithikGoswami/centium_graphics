@@ -1,3 +1,4 @@
+/* This program implements a circle using Bresenham's Algorithm */
 #include<stdio.h>
 #include<conio.h>
 #include<graphics.h>
