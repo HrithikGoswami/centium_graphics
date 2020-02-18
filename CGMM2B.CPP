@@ -1,3 +1,4 @@
+/* This program implements a line using Bresenham Line Algorithm */
 #include<stdio.h>
 #include<conio.h>
 #include<graphics.h>
