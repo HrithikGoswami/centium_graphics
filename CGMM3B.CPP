@@ -1,3 +1,4 @@
+/* This program implements a circle using Mid Point Algorithm */
 #include<stdio.h>
 #include<conio.h>
 #include<graphics.h>
