@@ -1,3 +1,4 @@
+/* This program prints a scenery */
 #include<stdio.h>
 #include<conio.h>
 #include<math.h>
