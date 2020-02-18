@@ -1,3 +1,4 @@
+/* This program implements a line using DDA line algorithm */
 #include<stdio.h>
 #include<conio.h>
 #include<graphics.h>
